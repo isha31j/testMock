@@ -1,0 +1,14 @@
+C:\Users\ap3041987\source\repos\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\ap3041987\source\repos\TestApp\bin\Debug\TestApp.exe
+C:\Users\ap3041987\source\repos\TestApp\bin\Debug\TestApp.pdb
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\App.g.cs
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\MainWindow.baml
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp.exe
+C:\Users\ap3041987\source\repos\TestApp\obj\Debug\TestApp.pdb
