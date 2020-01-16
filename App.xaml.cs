@@ -10,6 +10,7 @@ namespace TestApp
 {
     /// <summary>
     /// Interaction logic for App.xaml
+    /// Test Comments
     /// </summary>
     public partial class App : Application
     {
