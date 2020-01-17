@@ -12,7 +12,7 @@ namespace TestApp
     /// Interaction logic for App.xaml
     /// Test Comments
     /// </summary>
-    ///Helllo
+    ///Hello World!
     public partial class App : Application
     {
     }
